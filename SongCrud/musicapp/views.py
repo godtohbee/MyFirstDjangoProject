@@ -4,4 +4,4 @@ from django.http import HttpResponse
 
 # Create your views here.
 def index (response):
-    return HttpResponse ('Hits Only')
+    return HttpResponse ('HITS BY BEST OF THE BEST')
